@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+}
+h1{
+    color: orange;
+    font-size: 90px;
+    text-align: center;
+    line-height: 0%;
+}
+h2{
+    color:white;
+    font-size: 50px;
+    text-align: center;
+}
+h3{
+    color: white;
+    font-size: 50px;
+}
+.buttons {
+    text-align: center;
+    height: 90px;
+
+}
+.difficulty{
+    width: 200px;
+    height: 40px;
+    background-color: yellow;
+    font-size: 30px;
+}
+table{
+    margin:auto;
+    margin-top: 60px;
+   
+}
+
+.row{
+
+    border:8px orange solid;
+}
+.col{
+    color: orange;
+    border:8px gray;
+    size: 70px;
+   
+   
+}
+
+.num-button{
+    width: 100%;
+    height: 100%;
+    size: 15px;
+    background-color:beige;
+    font: opacity;
+}
+
+.mark{
+    background-color: white;
+}
